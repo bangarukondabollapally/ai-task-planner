@@ -6,6 +6,9 @@ The application generates structured step-by-step learning or project plans base
 
 ---
 
+## 🌐 Live Demo
+👉 [Try it live here](https://ai-task-planner.streamlit.app/)
+
 ## 🚀 Demo
 
 <p align="center">
