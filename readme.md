@@ -61,7 +61,7 @@ ai-task-planner/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-task-planner.git
+git clone https://github.com/bangarukondabollapally/ai-task-planner.git
 cd ai-task-planner
 ```
 
