@@ -41,6 +41,10 @@ The application generates structured step-by-step learning or project plans base
 ```text
 ai-task-planner/
 │
+├── screenshots/
+│   ├── demo1.png
+│   └── demo2.png
+│
 ├── app.py
 ├── requirements.txt
 ├── .env
