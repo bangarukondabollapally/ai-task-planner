@@ -153,16 +153,6 @@ Steps:
 
 ---
 
-## Deployment
-
-You can deploy this project using:
-
-- Streamlit Community Cloud
-- Render
-- Hugging Face Spaces
-
----
-
 ## requirements.txt
 
 ```text
@@ -174,13 +164,3 @@ pydantic
 ```
 
 ---
-
-## Author
-
-Bangaru Konda
-
----
-
-## License
-
-This project is licensed under the MIT License.
